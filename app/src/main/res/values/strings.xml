@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="tumPremHo">Tum Prem Ho Tum Pret Ho</string>
+    <string name="singer">Unknown</string>
+    <string name="duration">0</string>
+    <string name="allSongs">All Songs</string>
+    <string name="Favourites">Favourites</string>
+    <string name="Playlists">Playlists</string>
+    <string name="nowPlaying">Now Playing</string>
+    <string name="onGoingTime">00.00</string>
+    <string name="endingTime">10.00</string>
+    <string name="love">love me like you do</string>
+    <string name="enjoy"> Where</string>
+    <string name="enjoy2">words fail</string>
+    <string name="enjoy3"> music speaks</string>
+    <string name="search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
